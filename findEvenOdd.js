@@ -1,5 +1,4 @@
-
-  // TODO document why this function 'findEvenOdd' is empty
+// Solution 1
 
 function findEvenOdd (num){
  if(num % 2 === 0){
